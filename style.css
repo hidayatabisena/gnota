@@ -116,7 +116,10 @@
 }
 
 .text a {
-    display: inline-block;
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
     font-size: 1em;
     background: #fff;
     padding: 10px 30px;
@@ -129,7 +132,7 @@
 }
 
 .text a:hover {
-    letter-spacing: 6px;
+    letter-spacing: 4px;
 }
 
 .social {
