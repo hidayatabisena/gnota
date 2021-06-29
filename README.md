@@ -4,7 +4,7 @@ This repository contains final code for educational purposes only.
 
 ![Hero Section Screenshot](https://res.cloudinary.com/moyadev/image/upload/v1609928099/Moyadev/hero-section.png)
 
-[Demo](https://hero-section-page.netlify.app)
+[Demo](https://gnota.netlify.app/)
 
 ### How to use
 
